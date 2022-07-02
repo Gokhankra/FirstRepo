@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class test4 {
+public class test4 {
+
+    public static void main(String[]args){
+
+        double a=150;
+
+    }
 }
